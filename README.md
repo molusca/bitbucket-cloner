@@ -67,9 +67,9 @@ The script will start fetching and cloning repositories from your Bitbucket work
 
 To find the values for the variables on the Bitbucket website:
 
-- **BITBUCKET_USERNAME**: Your Bitbucket username can be located in your Bitbucket account settings.
+- **BITBUCKET_USERNAME**: Your Bitbucket username can be located in your Bitbucket [account settings](https://bitbucket.org/account/settings/).
 
-- **BITBUCKET_APP_PASSWORD**: Generate an app password specifically for this script. To create an app password, navigate to your Bitbucket settings, then to "Access management" > "App passwords," and generate a new password.
+- **BITBUCKET_APP_PASSWORD**: Generate an app password specifically for this script. To create an app password, navigate to your Bitbucket settings, then to "Access management" > "[App passwords](https://bitbucket.org/account/settings/app-passwords/)" and generate a new password.
 
 ## Example Output
 
