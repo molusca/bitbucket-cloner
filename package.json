@@ -4,6 +4,7 @@
   "description": "Script to clone all repositories from a BitBucket workspace, separating them by Project.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lucas Freitas",
